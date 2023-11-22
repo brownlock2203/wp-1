@@ -1,0 +1,14 @@
+# Ignore les fichiers de configuration
+wp-config.php
+
+# Ignore le répertoire des téléchargements
+wp-content/uploads/
+
+# Ignore les fichiers de configuration d'IDE (par exemple, PhpStorm)
+.idea/
+
+# Ignore les fichiers temporaires créés par des éditeurs de texte
+*.swp
+
+# Ignore les fichiers de cache générés par WordPress
+wp-content/cache/
